@@ -1,0 +1,7 @@
+# Ignore everything in the home directory by default
+/*
+
+# Only track the project files
+!.gitignore
+!index.html
+!README.md
